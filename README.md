@@ -4,7 +4,9 @@
 After filling out a quick survey, our friend-matching algorithm will pair you with an Pokemon individual in our network.  
 
 ## Live Link using Heroku:  
-https://friendfinder-nary.herokuapp.com/
+https://friendfinder-nary.herokuapp.com/  
+
+<img src="63542047-3e5e7780-c4d4-11e9-9e0c-7eaa798e2804.png”>
 
 ## Technologies used:
 •	JavaScript   
@@ -19,6 +21,9 @@ https://friendfinder-nary.herokuapp.com/
 The various errors returned by this module are described in the errors section.  
 
 •	express - The Express philosophy is to provide small, robust tooling for HTTP servers, making it a great solution for single page applications, web sites, hybrids, or public HTTP APIs.  
+
+## Author
+•	Nary Hang
 
 
 
