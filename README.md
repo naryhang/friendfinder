@@ -10,7 +10,7 @@ https://friendfinder-nary.herokuapp.com/
 •	JavaScript   
 •	jQuery  
 •	node.js  
-•	Express.js 
+•	Express.js  
 •	HTML  
 •	Bootstrap   
 
