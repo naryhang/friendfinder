@@ -1,7 +1,7 @@
 
 # friendfinder-app 
 
-After filling out a quick survey, our friend-matching algorithm will pair you with an Pokemon individual in our network.  
+After filling out a quick survey, our friend-matching algorithm will pair you with a Pokemon in our network.  
 
 ## Live Link using Heroku:  
 https://friendfinder-nary.herokuapp.com/  
