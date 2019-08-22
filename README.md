@@ -11,8 +11,8 @@ https://friendfinder-nary.herokuapp.com/
 •	jQuery  
 •	node.js  
 •	Express.js 
-•	HTML 
-•	Bootstrap  
+•	HTML  
+•	Bootstrap   
 
 ## NPM packages:
 •	body-parser - The bodyParser object exposes various factories to create middlewares. All middlewares will populate the req.body property with the parsed body when the Content-Type request header matches the type option, or an empty object ({}) if there was no body to parse, the Content-Type was not matched, or an error occurred.  
