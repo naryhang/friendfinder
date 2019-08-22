@@ -6,7 +6,7 @@ After filling out a quick survey, our friend-matching algorithm will pair you wi
 ## Live Link using Heroku:  
 https://friendfinder-nary.herokuapp.com/  
 
-<img src="63542047-3e5e7780-c4d4-11e9-9e0c-7eaa798e2804.png”>
+<img src"https://user-images.githubusercontent.com/22119689/63542047-3e5e7780-c4d4-11e9-9e0c-7eaa798e2804.png">
 
 ## Technologies used:
 •	JavaScript   
